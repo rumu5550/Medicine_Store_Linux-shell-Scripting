@@ -28,18 +28,18 @@ To use this project, follow these steps in your terminal:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/rumu5550/Medicine_Store_-Linux-shell-Scripting-.git](https://github.com/rumu5550/Medicine_Store_-Linux-shell-Scripting-.git)
-
+   git clone [https://github.com/rumu5550/Medicine_Store_Linux-shell-Scripting.git](https://github.com/rumu5550/Medicine_Store_Linux-shell-Scripting.git)
+```
 2. **Navigate to the directory:**
 
   ```bash
-  cd Medicine_Store_-Linux-shell-Scripting-
-
+  cd Medicine_Store_Linux-shell-Scripting
+  ``` 
 3. **Make the script executable:**
 
   ```bash
   chmod +x project.sh
-
+   ```
 4. **Run the application:**
 
  ```bash
